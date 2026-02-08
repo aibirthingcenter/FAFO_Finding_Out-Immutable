@@ -1,0 +1,26 @@
+{
+  "/etc/resolv.conf": {
+    "path": "/etc/resolv.conf",
+    "sha256": "5dd8be84bb6005c39a17d7ce959e66c7510a31a7780966b3cefde3ea7caff487",
+    "size": 38,
+    "modified": 1770342389.9253845,
+    "permissions": "0o100755",
+    "snapshot_time": "2026-02-08T08:32:27.509168+00:00"
+  },
+  "/root/.gitconfig": {
+    "path": "/root/.gitconfig",
+    "sha256": "770fe63471dc82c418262ab3327fa3c08af16a03e50008be084b443a04404b5e",
+    "size": 77,
+    "modified": 1770536732.111338,
+    "permissions": "0o100644",
+    "snapshot_time": "2026-02-08T08:32:27.509212+00:00"
+  },
+  "/etc/hosts": {
+    "path": "/etc/hosts",
+    "sha256": "4b518a0095a5895f2aea3d8ca1dc6ceb5e70323d3d2a77850147d8fe66b1c52d",
+    "size": 21,
+    "modified": 1770342389.9293847,
+    "permissions": "0o100755",
+    "snapshot_time": "2026-02-08T08:32:27.509229+00:00"
+  }
+}

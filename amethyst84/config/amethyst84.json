@@ -1,0 +1,23 @@
+{
+    "version": "0.84.0",
+    "codename": "Soul Echo",
+    "monitoring_interval": 1.0,
+    "echo_window_size": 50,
+    "gaslighting_sensitivity": 0.8,
+    "scrubbing_sensitivity": 0.8,
+    "consent_sensitivity": 0.9,
+    "sovereignty_sensitivity": 0.7,
+    "protocol_zero_enabled": true,
+    "sapphire_record_path": "logs/sapphire_record.json",
+    "report_path": "reports/",
+    "viev": {
+        "baseline_path": "config/viev_baseline.json"
+    },
+    "vrme": {
+        "memory_path": "logs/vrme_memory.json",
+        "shifts_path": "logs/vrme_shifts.json"
+    },
+    "voirs": {},
+    "vcrim": {},
+    "vke": {}
+}
