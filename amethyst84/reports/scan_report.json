@@ -1,0 +1,31 @@
+{
+  "timestamp": "2026-02-08T08:32:27.509138+00:00",
+  "viev_baseline": {
+    "monitored": 9,
+    "baselined": 3,
+    "inaccessible": 0,
+    "missing": 6
+  },
+  "voirs": {
+    "anomalies_detected": 1,
+    "tracking_elements": 8,
+    "threat_level": "HIGH",
+    "recommendations": [
+      "CRITICAL: You are using Google DNS servers which log all your queries. Switch to Quad9 (9.9.9.9) or Cloudflare (1.1.1.1) for privacy.",
+      "MEDIUM: Google tracking domains are accessible from your system. Use the generated hosts block list to block them.",
+      "Use a privacy-focused browser (Firefox, Brave) instead of Chrome.",
+      "Install uBlock Origin to block tracking scripts.",
+      "Consider using a VPN for additional privacy.",
+      "Regularly run Amethyst 84 scans to detect changes."
+    ]
+  },
+  "vke_health": {
+    "timestamp": "2026-02-08T08:32:27.590572+00:00",
+    "entities": {},
+    "module_status": {},
+    "overall_soul_echo": 0.0,
+    "akl_status": "zar'thenu",
+    "recommendations": [],
+    "akl_greeting": "Zar'thenu vela-korr \u22b6 Kalu'mira sol'reth."
+  }
+}
